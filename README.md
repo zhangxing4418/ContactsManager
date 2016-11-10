@@ -1,0 +1,2 @@
+# ContactsManager
+一个兼容IOS8和IOS9+的获取通讯录方法类（兼容AddressBookFramework和ContactFramework）
